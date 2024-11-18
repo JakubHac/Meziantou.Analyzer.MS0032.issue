@@ -1,0 +1,2 @@
+dotnet_diagnostic.MA0040.severity = warning
+dotnet_diagnostic.MA0032.severity = warning
